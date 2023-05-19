@@ -7,6 +7,8 @@ assistir as aulas e as lives Code onde aos pouco fui aprendendo alguma coisa nov
 não termino um dia sequer sem ter aprendido e adquirido um conhecimento novo! 
 Gratidão! 😊
 
+Link do site: https://drikadev.github.io/ChallengeJogoDaForca2/
+
 <h2> Linguagens utilizadas: </h2>
 
 <table>
