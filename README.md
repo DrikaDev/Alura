@@ -1,4 +1,4 @@
 # Aluras Challenges | Oracle One | Front-end
 ---
-Repositório criado para guardar desafios que fiz durante cursos os quais tive o privilégio de participar da plataforma Alura ✨\
+Repositório criado para guardar desafios que fiz durante o bootcamp Alura/Oracle que tive o privilégio de participar em 2022 ✨\
 Gratidão 🙏🏼
