@@ -13,7 +13,6 @@ Rápida descrição do objetivo de fazer esse projeto:
 ![PortfólioAlura](https://user-images.githubusercontent.com/102387476/188776954-bd5e422b-cce8-423f-9115-891db2137154.jpg) #vitrinedev
 
 ## Detalhes do projeto
-
 Construção de um portfólio baseado no Figma para mostrar nossos projetos aos possíveis recrutadores que visitarem nossa página! 😁\
 Requisitos:\
 Possuir um menu de navegação;\
